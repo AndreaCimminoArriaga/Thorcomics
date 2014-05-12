@@ -1,0 +1,38 @@
+/* HOJA DE CSS DE TODO LO RELACIONADO CON EL CARRITO DE LA COMPRA*/
+
+#moduloCarrito{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	margin: auto;
+	z-index: 0;
+	background-color: #F9B701;
+}
+
+#moduloCarrito h1{		
+	margin: auto;
+	margin-top: 8px;
+	font-size: 14px;	
+	font-weight: bold;
+	height: 2em;
+	text-align: center;
+	vertical-align: middle;
+	z-index: 1;
+	
+}
+
+#moduloCarrito p{
+	margin: auto;
+	margin-top: 3px;
+	margin-bottom: 0px;
+}
+
+#moduloCarrito hr{
+	margin: auto;
+}
+
+#moduloCarrito button{
+	margin-left: 30%;
+	margin-right: 25%;
+	margin-bottom: 5px;
+}
+
