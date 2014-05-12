@@ -17,6 +17,7 @@ You can try this project using the following link
 To use this project in your computer you have to run it with a 
 mysql database wich user is root and password bitnami.
 Create a db name comics and use the file:
+
 	thorcomics/comics.sql to persist the db with info in it
 	thorcomics/comics.sql to persist just the tables without info
 
