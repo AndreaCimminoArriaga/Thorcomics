@@ -1,1 +1,0 @@
-Imagen estandar: width:167px height:256px sin bordes.
