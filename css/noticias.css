@@ -1,0 +1,54 @@
+/* HOJA DE CSS DE TODO LO RELACIONADO CON EL MENU DE NOTICIAS*/
+
+
+#noticias{
+	overflow:hidden;
+	position:relative;
+    width: 960px;
+	height:300px;
+	border-bottom: 2px solid black;
+}
+
+#noticias ul{
+	position:relative;
+    left:0;
+    top:0;
+    list-style:none;
+    margin:0;
+    padding:0; 
+    width:2880px; 
+}
+	
+#noticias li {
+    width:960px;
+    height:300px;  
+    float:left;
+    
+}
+
+#noticias li img{
+	width: 960px;
+	height: 300px;
+	z-index:3;
+}
+
+#anterior {
+    
+    width:40px;
+    height:300px;
+    position:absolute;
+    background-image: url("../media/left.jpg");
+    z-index:4;
+        
+}
+
+#siguiente{
+    width:40px;
+    height:300px;
+    position:absolute;
+    left:920px;
+    background-image:url("../media/right.jpg");
+    z-index:4;
+    
+}
+
