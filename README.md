@@ -6,9 +6,13 @@ implementations). To see the info about this project visit
 
 	thorcomics-cimminoarriaga.rhcloud.com/descripcion_app.php
 
-	or if you dowload this copy and mounth it in your localhost
+or if you dowload this copy and mounth it in your localhost
 
 	localhost:8080/thorcomics/descripcion_app.php
+
+You can try this project using the following link
+
+thorcomics-cimminoarriaga.rhcloud.com
 
 To use this project in your computer you have to run it with a 
 mysql database wich user is root and password bitnami.
