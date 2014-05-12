@@ -1,0 +1,35 @@
+/* HOJA CSS DE TODO LO RELACIONADO CON EL FORMULARIO QUE FILTRA LOS PRODUCTOS*/
+
+
+#formularioBusqueda{
+	display: inline;
+	text-align: center;
+	width: auto;
+	margin: auto;
+	height: auto;
+}
+
+#formularioBusqueda p {
+	display: inline;
+	text-align: right;
+	margin: 4px 0px 3px 2px;
+}
+#formularioBusqueda select {
+	margin:auto;	
+}
+
+.valorP{
+	visibility: hidden;	
+	display: none;
+}
+.centro{
+	text-align: center;
+}
+#Cantidad1{
+	width:45px;
+	display: inline;
+}
+#Cantidad2{
+	width:45px;
+	display: inline;
+}

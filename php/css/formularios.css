@@ -1,0 +1,74 @@
+/* HOJA DE CSS DE TODO LO RELACIONADO CON LOS FORMULARIOS DE INSCRIPCION Y ACTUALIZACION*/
+
+#formulario_inscripcion{
+	padding: 4% 2% 5% 2%;
+	left:150px;
+	position: relative;
+	width: 670px;
+	height:300px;
+	text-align: right;
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+#formulario_inscripcion legend{
+	text-align: center;
+}
+#nivelS{
+	margin-top:10px;
+	margin-right: 115px;
+}
+#fieldsetleft{
+	text-align: right;
+	height: 240px;
+	width:260px;
+	border:1px solid black;
+	float:left;
+	display: block;
+}
+#fieldsetright{
+	text-align: right;
+	height: 240px;
+	width:370px;
+	border:1px solid black;
+	float: right;
+	display: block;
+}
+#formulario_inscripcion label{
+	margin-top: 10px;
+	display: inline;
+}
+#input_codigoPostal{
+	width: 50px;
+	margin-right: 15px;
+}
+#formulario_inscripcion input{
+	display: inline;
+	margin-top: 10px;
+	margin-right: 10px;
+	width: 130px;
+}
+
+#formulario_inscripcion img{
+	margin-right: 3px;
+	display: inline;
+	visibility: hidden;
+}
+#formulario_inscripcion button{
+	text-align: center;
+	position: relative;
+	
+}
+#erroresRegistro{	
+	width: 960px;
+	height: auto;
+	border:3px solid red;
+	background-color: #CCFFFF;
+	display: block;
+	margin:auto;
+}
+#erroresRegistro p{
+	color:red;
+	font-weight: bold;
+	text-decoration: underline;
+	text-align: center;
+}

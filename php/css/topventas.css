@@ -1,0 +1,36 @@
+/* HOJA DE CSS DE TODO LO RELACIONADO CON EL MODULO FLOTANTE DEL TOP VENTAS*/
+
+
+#topventas {
+	width: 100%;
+	margin: auto;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	z-index:0;
+}
+
+#topventas th {
+	background-color: #F9B701;
+	border-bottom: solid black 0.5px;
+	font-size: 14px;	
+	font-weight: bold;
+	height: 2em;
+	text-align: center;
+	vertical-align: middle;
+}
+
+#topventas td {
+	padding: 2px;
+	width: 80%;
+	border-top: dotted black 1px;
+	height: 25px;
+	vertical-align: middle;
+	text-indent: 10%;
+}
+#topventas td:first-child{
+	width: 20%;
+	font-weight: bolder;
+	text-align: center;
+	text-indent: 0%;
+	border-right: dotted black 1px;
+}
