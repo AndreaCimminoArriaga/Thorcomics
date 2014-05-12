@@ -12,7 +12,7 @@ or if you dowload this copy and mounth it in your localhost
 
 You can try this project using the following link
 
-thorcomics-cimminoarriaga.rhcloud.com
+	thorcomics-cimminoarriaga.rhcloud.com
 
 To use this project in your computer you have to run it with a 
 mysql database wich user is root and password bitnami.
