@@ -1,7 +1,7 @@
 Thorcomics
 ==========
 
-A comic store demo developed in php+mysql (without payment
+A comic store demo (without payment
 implementations). To see the info about this project visit
 
 	thorcomics-cimminoarriaga.rhcloud.com/descripcion_app.php
@@ -13,6 +13,11 @@ or if you dowload this copy and mounth it in your localhost
 You can try this project using the following link
 
 	thorcomics-cimminoarriaga.rhcloud.com
+
+The technology and resources used to develop this project are:
+
+	Technologies: PHP, Html, Css, Javascript, Mysql.
+
 
 To use this project in your computer you have to run it with a 
 mysql database wich user is root and password bitnami.
